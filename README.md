@@ -3,8 +3,8 @@
 Full Stack Developer and Bachelor of Computer Applications (BCA) student (4th Semester) at Pillai College, Mumbai. I specialize in the MERN stack, building responsive web applications and designing secure backend APIs.
 
 ## Academic Profile
-- **Current Education:** BCA, Mumbai University (2024 – Present)
-- **Current CGPA:** 9.86/10 (Through 3rd Semester)
+- **Current Education:** BCA, Pillai College of Arts, Commerce and Science, Mumbai University  (2024 – Present)
+- **Current CGPA:** 9.86/10 (Through 4th Semester)
 
 ## About Me
 - **Current Focus:** Developing "Workflow Orchestrator," an HR Management System for task automation.
