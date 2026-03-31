@@ -11,7 +11,7 @@ Full Stack Developer and Bachelor of Computer Applications (BCA) student (4th Se
 - **Current Focus:** Developing "Workflow Orchestrator," an HR Management System for task automation.
 - **Learning Path:** Completing Meta Professional Certificates in Front-End and Back-End Development.
 - **Interests:** Scalable system design, JWT-based authentication, and performance-optimized React components.
-- **Collaboration:** Open to collaborating on full-stack MERN projects or Java-based CRUD applications.
+- **Collaboration:** Open to collaborating on full-stack projects.
 
 ## Technical Skills
 
