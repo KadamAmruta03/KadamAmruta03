@@ -45,7 +45,7 @@ Full Stack Developer and Bachelor of Computer Applications (BCA) student (4th Se
 
 ## Contact Information
 - **Email:** Kadamamruta0555@gmail.com
-- **LinkedIn:** [linkedin.com/in/amruta-kadam-6b3bbb312](https://www.linkedin.com/in/amruta-kadam-6b3bbb312)
-- **GitHub:** [github.com/KadamAmruta03](https://github.com/KadamAmruta03)
-- **Twitter:** [x.com/_amrutakadam](https://x.com/_amrutakadam)
+- **LinkedIn:** [_amrutakadam](https://www.linkedin.com/in/amruta-kadam-6b3bbb312)
+- **GitHub:** [KadamAmruta03](https://github.com/KadamAmruta03)
+- **Twitter:** [_amrutakadam](https://x.com/_amrutakadam)
 - **Portfolio:** [Insert Portfolio Link Here]
