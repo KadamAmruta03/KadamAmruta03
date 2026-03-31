@@ -14,9 +14,9 @@ Full Stack Developer and Bachelor of Computer Applications (BCA) student (4th Se
 
 ## Technical Skills
 
-- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
+- **Frontend:** React.js, HTML5, CSS3
 - **Backend & DB:** Node.js, Express.js, RESTful APIs, MySQL, MongoDB
-- **Programming:** JavaScript, Java, JDBC
+- **Programming:** JavaScript, Java
 - **Tools:** Git, GitHub, VS Code, Vercel, NetBeans
 
 ## Featured Projects
@@ -40,8 +40,7 @@ Full Stack Developer and Bachelor of Computer Applications (BCA) student (4th Se
 ## Certifications
 - Meta Front-End Developer Professional Certificate (In Progress)
 - Meta Back-End Developer Professional Certificate (In Progress)
-- SQL & Database Fundamentals (MySQL) – Great Learning
-- MongoDB Basics – Great Learning
+- SQL & Database Fundamentals (MySQL) – Great Learning (Certified)
 
 ## Contact Information
 - **Email:** Kadamamruta0555@gmail.com
