@@ -1,16 +1,51 @@
-## Hi there 👋
+# Amruta Kadam
 
-<!--
-**KadamAmruta03/KadamAmruta03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer and Bachelor of Computer Applications (BCA) student (4th Semester) at Pillai College, Mumbai. I specialize in the MERN stack, building responsive web applications and designing secure backend APIs.
 
-Here are some ideas to get you started:
+## Academic Profile
+- **Current Education:** BCA, Mumbai University (2024 – Present)
+- **Current CGPA:** 9.86/10 (Through 3rd Semester)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- **Current Focus:** Developing "Workflow Orchestrator," an HR Management System for task automation.
+- **Learning Path:** Completing Meta Professional Certificates in Front-End and Back-End Development.
+- **Interests:** Scalable system design, JWT-based authentication, and performance-optimized React components.
+- **Collaboration:** Open to collaborating on full-stack MERN projects or Java-based CRUD applications.
+
+## Technical Skills
+
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
+- **Backend & DB:** Node.js, Express.js, RESTful APIs, MySQL, MongoDB
+- **Programming:** JavaScript, Java, JDBC
+- **Tools:** Git, GitHub, VS Code, Vercel, NetBeans
+
+## Featured Projects
+
+### Workflow Orchestrator – HR Management System
+- Full-stack HR system built using the MERN stack for workflow automation.
+- Features a real-time dashboard for performance insights and workforce visibility.
+
+### ScholarSphere – Academic Platform
+- Developed using React.js, Node.js, and MySQL.
+- Implemented JWT-based authentication and academic productivity modules.
+
+### Campus Retain – Lost & Found System
+- Built with Java, JDBC, and MySQL.
+- Implemented full CRUD operations for tracking and managing items.
+
+### Evra Jewellery Website
+- High-performance shopping experience built with React.js.
+- Focused on optimized image loading and interactive UI components.
+
+## Certifications
+- Meta Front-End Developer Professional Certificate (In Progress)
+- Meta Back-End Developer Professional Certificate (In Progress)
+- SQL & Database Fundamentals (MySQL) – Great Learning
+- MongoDB Basics – Great Learning
+
+## Contact Information
+- **Email:** Kadamamruta0555@gmail.com
+- **LinkedIn:** [Insert Link]
+- **GitHub:** [Insert Link]
+- **Portfolio:** [Insert Link]
+- **Twitter:** [Insert Link]
