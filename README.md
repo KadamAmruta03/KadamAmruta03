@@ -1,6 +1,6 @@
 # Amruta Kadam
 
-Full Stack Developer and Bachelor of Computer Applications (BCA) student (4th Semester) at Pillai College, Mumbai. I specialize in the MERN stack, building responsive web applications and designing secure backend APIs.
+Full Stack Developer and Bachelor of Computer Applications (BCA) student (4th Semester) at Pillai College, Mumbai. I specialize in the Full stack, building responsive web applications and designing secure backend APIs.
 
 ## Academic Profile
 - **Current Education:** BCA, Pillai College of Arts, Commerce and Science, Mumbai University  (2024 – Present)
