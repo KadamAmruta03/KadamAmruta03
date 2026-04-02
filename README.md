@@ -42,7 +42,6 @@ I specialize in the Full stack, building responsive web applications and designi
 ## Certifications
 - Meta Front-End Developer Professional Certificate (In Progress)
 - Meta Back-End Developer Professional Certificate (In Progress)
-- SQL & Database Fundamentals (MySQL) – Great Learning (Certified)
 
 ## Contact Information
 - **Email:** Kadamamruta0555@gmail.com
