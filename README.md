@@ -84,4 +84,5 @@ CGPA: 9.86/10 (Till 4th Semester)
 
 ## CURRENTLY LEARNING
 
-Meta Front-End Developer Professional Certificate · Meta Back-End Developer Professional Certificate · Advanced React Patterns · REST API Security
+Meta Front-End Developer Professional Certificate 6-month program |  In Progress (Expected Sep 2026) 
+Meta Back-End Developer Professional Certificate 6-month program |  In Progress (Expected Oct 2026)
