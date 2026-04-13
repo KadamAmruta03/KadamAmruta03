@@ -3,10 +3,6 @@
 
 Mumbai, India | +91 77159 22440 | Kadamamruta0555@gmail.com | [LinkedIn](https://www.linkedin.com/in/amruta-kadam-6b3bbb312) | [GitHub](https://github.com/KadamAmruta03/KadamAmruta03) | [Portfolio](https://my-port-folio-weld-eight.vercel.app/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=KadamAmruta03&color=blue&style=for-the-badge)
-
-
-
 </div>
 
 ## PROFESSIONAL SUMMARY
