@@ -11,7 +11,7 @@ Mumbai, India | +91 77159 22440 | Kadamamruta0555@gmail.com | [LinkedIn](#) | [G
 
 ## EDUCATION
 
-**Bachelor of Computer Applications (BCA)** (Oct 2024 – Present)  
+**Bachelor of Computer Applications (BCA)**                                                                         (Oct 2024 – Present)  
 Pillai College of Arts, Commerce and Science, Mumbai University  
 CGPA: 9.86/10 (Till 4th Semester)
 
