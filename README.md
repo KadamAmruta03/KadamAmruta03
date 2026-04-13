@@ -1,8 +1,10 @@
 <div align="center">
+ 
 # Amruta Kadam
+ 
 **Mumbai, India** | +91 77159 22440 | Kadamamruta0555@gmail.com | [LinkedIn](#) | [GitHub](#) | [Portfolio](#)
+ 
 </div>
-
 ---
 
 ## Professional Summary
