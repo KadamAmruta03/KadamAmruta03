@@ -17,12 +17,14 @@ CGPA: 9.86/10 (Till 4th Semester)
 
 ## TECHNICAL SKILLS
 
-**Frontend:** React.js, HTML5, CSS3, Responsive Design, Component Architecture  
-**Backend:** Node.js, Express.js, RESTful API Design, JWT Authentication, Java Servlets, JSP, JDBC  
-**Databases:** MongoDB, MySQL  
-**Languages:** JavaScript (ES6+), Java  
-**Tools & Platforms:** Git, GitHub, Vercel, VS Code, NetBeans
-
+| Category | Technologies |
+|---|---|
+| **Frontend** | React.js, HTML5, CSS3, Responsive Design, Component Architecture |
+| **Backend** | Node.js, Express.js, RESTful API Design, JWT Authentication, Java Servlets, JSP, JDBC |
+| **Databases** | MongoDB, MySQL |
+| **Languages** | JavaScript (ES6+), Java |
+| **Tools & Platforms** | Git, GitHub, Vercel, VS Code, NetBeans |
+ 
 ## PROJECTS
 
 **Workflow Orchestrator – HR Management System | MERN Stack** (2025)  
@@ -52,4 +54,4 @@ CGPA: 9.86/10 (Till 4th Semester)
 ## CERTIFICATIONS
 
 **Meta Front-End Developer Professional Certificate** — 6-month program | In Progress (Expected Sep 2026)  
-**Meta Back-End Developer Professional Certificate** — 6-month program | In Progress (Expected Oct 2026)s
+**Meta Back-End Developer Professional Certificate** — 6-month program | In Progress (Expected Oct 2026)
