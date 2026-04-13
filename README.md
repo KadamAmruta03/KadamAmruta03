@@ -1,19 +1,16 @@
+<div align="center">
+
 # Amruta Kadam
 
 **Mumbai, India** | +91 77159 22440 | Kadamamruta0555@gmail.com | [LinkedIn](#) | [GitHub](#) | [Portfolio](#)
+
+</div>
 
 ---
 
 ## Professional Summary
 
 2nd-year BCA student (CGPA 9.86) with 4 deployed full-stack projects across MERN, Java, and MySQL. Comfortable owning features end-to-end — from REST API design to React UI. Looking for a summer internship where I can contribute to real production code.
-
----
-## Education
-
-**Bachelor of Computer Applications (BCA)** | Oct 2024 – Present  
-Pillai College of Arts, Commerce and Science, Mumbai University  
-CGPA: 9.86/10 (Till 4th Semester)
 
 ---
 
@@ -68,6 +65,14 @@ CGPA: 9.86/10 (Till 4th Semester)
 - React e-commerce storefront — 13 pages, 60+ products across 6 categories and 28 Indian states with cart, wishlist, and URL parameter-based filtering.
 - Vanilla JS event bus for cart/wishlist sync without Redux — zero third-party state management.
 - Glassmorphism design system across 9 CSS files, 12 responsive breakpoints, and 6 custom keyframe animations — no UI library used.
+
+---
+
+## Education
+
+**Bachelor of Computer Applications (BCA)** | Oct 2024 – Present  
+Pillai College of Arts, Commerce and Science, Mumbai University  
+CGPA: 9.86/10 (Till 4th Semester)
 
 ---
 
