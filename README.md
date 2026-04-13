@@ -5,7 +5,7 @@ Mumbai, India | +91 77159 22440 | Kadamamruta0555@gmail.com | [LinkedIn](https:/
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KadamAmruta03&color=blue&style=for-the-badge)
 
-**Open to Summer Internship 2025 — Full Stack / Frontend / Backend**
+
 
 </div>
 
@@ -88,11 +88,6 @@ CGPA: 9.86/10 (Till 4th Semester)
 - React e-commerce storefront — 13 pages, 60+ products across 6 categories and 28 Indian states with cart, wishlist, and URL parameter-based filtering.
 - Vanilla JS event bus for cart/wishlist sync without Redux — zero third-party state management.
 - Glassmorphism design system across 9 CSS files, 12 responsive breakpoints, and 6 custom keyframe animations — no UI library used.
-
-## CERTIFICATIONS
-
-**Meta Front-End Developer Professional Certificate** — 6-month program | In Progress (Expected Sep 2026)  
-**Meta Back-End Developer Professional Certificate** — 6-month program | In Progress (Expected Oct 2026)
 
 ## CURRENTLY LEARNING
 
