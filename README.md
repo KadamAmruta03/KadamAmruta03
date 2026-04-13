@@ -3,6 +3,10 @@
 
 Mumbai, India | +91 77159 22440 | Kadamamruta0555@gmail.com | [LinkedIn](https://www.linkedin.com/in/amruta-kadam-6b3bbb312) | [GitHub](https://github.com/KadamAmruta03/KadamAmruta03) | [Portfolio](https://my-port-folio-weld-eight.vercel.app/)
 
+![Profile Views](https://komarev.com/ghpvc/?username=KadamAmruta03&color=blue&style=for-the-badge)
+
+**Open to Summer Internship 2025 — Full Stack / Frontend / Backend**
+
 </div>
 
 ## PROFESSIONAL SUMMARY
@@ -11,19 +15,19 @@ Mumbai, India | +91 77159 22440 | Kadamamruta0555@gmail.com | [LinkedIn](https:/
 
 ## EDUCATION
 
-**Bachelor of Computer Applications (BCA)**                                                                         (Oct 2024 – Present)  
+**Bachelor of Computer Applications (BCA)** (Oct 2024 – Present)  
 Pillai College of Arts, Commerce and Science, Mumbai University  
 CGPA: 9.86/10 (Till 4th Semester)
 
 ## TECHNICAL SKILLS
- 
+
 **Frontend**  
 ![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Responsive Design](https://img.shields.io/badge/Responsive_Design-000000?style=for-the-badge)
 ![Component Architecture](https://img.shields.io/badge/Component_Architecture-000000?style=for-the-badge)
- 
+
 **Backend**  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -32,22 +36,33 @@ CGPA: 9.86/10 (Till 4th Semester)
 ![Java Servlets](https://img.shields.io/badge/Java_Servlets-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
- 
+
 **Databases**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
- 
+
 **Languages**  
 ![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
- 
+
 **Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white)
- 
+
+## GITHUB STATS
+
+<div align="center">
+
+![Amruta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KadamAmruta03&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KadamAmruta03&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KadamAmruta03&theme=tokyonight)
+
+</div>
+
 ## PROJECTS
 
 **Workflow Orchestrator – HR Management System | MERN Stack** (2025)  
@@ -78,3 +93,7 @@ CGPA: 9.86/10 (Till 4th Semester)
 
 **Meta Front-End Developer Professional Certificate** — 6-month program | In Progress (Expected Sep 2026)  
 **Meta Back-End Developer Professional Certificate** — 6-month program | In Progress (Expected Oct 2026)
+
+## CURRENTLY LEARNING
+
+Meta Front-End Developer Professional Certificate · Meta Back-End Developer Professional Certificate · Advanced React Patterns · REST API Security
