@@ -7,7 +7,7 @@ Mumbai, India | +91 77159 22440 | Kadamamruta0555@gmail.com | [LinkedIn](https:/
 
 ## PROFESSIONAL SUMMARY
 
-2nd-year BCA student (CGPA 9.86) with 4 deployed full-stack projects across MERN, Java, and MySQL. Comfortable owning features end-to-end — from REST API design to React UI. Looking for a summer internship where I can contribute to real production code.
+2nd-year BCA student (CGPA 9.86) with 4 deployed full-stack projects across MERN, Java, and MySQL. Comfortable owning features end-to-end — from REST API design to React UI. 
 
 ## EDUCATION
 
