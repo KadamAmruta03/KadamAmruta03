@@ -52,9 +52,6 @@ CGPA: 9.86/10 (Till 4th Semester)
 
 <div align="center">
 
-![Amruta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KadamAmruta03&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KadamAmruta03&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=KadamAmruta03&theme=tokyonight)
 
 </div>
