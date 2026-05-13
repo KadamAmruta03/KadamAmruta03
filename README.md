@@ -7,7 +7,7 @@ Mumbai, India | +91 77159 22440 | Kadamamruta0555@gmail.com | [LinkedIn](https:/
 
 ## PROFESSIONAL SUMMARY
 
-2nd-year BCA student (CGPA 9.86) with 4 deployed full-stack projects across MERN, Java, and MySQL. Comfortable owning features end-to-end — from REST API design to React UI. 
+Full-stack developer with 4 deployed production apps across MERN, Java, and MySQL. Experienced building end-to-end features — REST APIs, React UIs, database design — and shipping fast using AI-assisted workflows (Cursor, Claude). CGPA 9.86 | BCA, Mumbai University.
 
 ## EDUCATION
 
@@ -82,7 +82,3 @@ CGPA: 9.86/10 (Till 4th Semester)
 - Vanilla JS event bus for cart/wishlist sync without Redux — zero third-party state management.
 - Glassmorphism design system across 9 CSS files, 12 responsive breakpoints, and 6 custom keyframe animations — no UI library used.
 
-## CURRENTLY LEARNING
-
-- Meta Front-End Developer Professional Certificate 6-month program |  In Progress (Expected Sep 2026) 
-- Meta Back-End Developer Professional Certificate 6-month program |  In Progress (Expected Oct 2026)
