@@ -1,6 +1,5 @@
 <div align="center">
 <h1>Amruta Kadam</h1>
-
 Mumbai, India &nbsp;|&nbsp; +91 77159 22440 &nbsp;|&nbsp; Kadamamruta0555@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/amruta-kadam-6b3bbb312) &nbsp;|&nbsp; [GitHub](https://github.com/KadamAmruta03/KadamAmruta03)
 
 </div>
